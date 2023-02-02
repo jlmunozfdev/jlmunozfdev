@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://codepen.io/jlmunozfdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jlmunozfdev" height="30" width="40" /></a>
 <a href="https://dev.to/jlmunozfdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jlmunozfdev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jlmunozf" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/tiktok_logo_icon_189233.png" alt="jlmunozf" height="40" width="40" /></a>
+<a href="https://www.tiktok.com/@jlmunozfdev" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/tiktok_logo_icon_189233.png" alt="jlmunozf" height="40" width="40" /></a>
 <a href="https://twitter.com/jlmunozfdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jlmunozfdev" height="30" width="40" /></a>
 <a href="https://instagram.com/jlmunozfdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jlmunozfdev" height="30" width="40" /></a>
 </p>
