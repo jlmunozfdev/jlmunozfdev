@@ -32,8 +32,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jlmunozfdev&" alt="jlmunozfdev" /></p>
 
-
-center>
-<h3 >If you like my work, Invite me a coffee ❤️ </h3>
-<p><a href="https://www.paypal.com/paypalme/jlmunozf"> <img src="https://cdn-icons-png.flaticon.com/512/196/196565.png" height="50" width="210" alt="jlmunozfdev" /></a></p><br><br>
-
+---
+<center>
+<h2>If you like my work, Invite me a coffee ❤️ ☕</h2>
+<p><a href="https://www.paypal.com/paypalme/jlmunozf"> <img src="https://cdn-icons-png.flaticon.com/512/196/196565.png" height="180"alt="jlmunozfdev" /></a></p><br><br>
