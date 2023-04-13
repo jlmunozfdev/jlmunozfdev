@@ -12,8 +12,11 @@
 
 - 📫 How to reach me **jlmunozf.dev@gmail.com**
 
-### Portfolio
-<a href="https://jlmunozfdev.github.io/" target="blank">See portfolio <img align="center" src="https://cdn-icons-png.flaticon.com/512/1150/1150626.png" alt="jlmunozf" height="40" width="40"/></a>
+### Portfolio V1.0
+<a href="https://jlmunozfdev.github.io" target="blank">See portfolio <img align="center" src="https://cdn-icons-png.flaticon.com/512/1150/1150626.png" alt="jlmunozf" height="40" width="40"/></a>
+---
+### Portfolio V2.0
+<a href="https://jlmunozfdev.vercel.app" target="blank">See portfolio <img align="center" src="https://cdn-icons-png.flaticon.com/512/1150/1150626.png" alt="jlmunozf" height="40" width="40"/></a>
 ---
 
 <h3 align="left">Connect with me:</h3>
