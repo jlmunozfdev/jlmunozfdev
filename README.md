@@ -21,6 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://discord.gg/n89SfzN4" target="_blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/discord_icon_130958.png" alt="jlmunozfdev" height="30" width="40" /></a>
 <a href="https://codepen.io/jlmunozfdev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jlmunozfdev" height="30" width="40" /></a>
 <a href="https://dev.to/jlmunozfdev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jlmunozfdev" height="30" width="40" /></a>
 <a href="https://www.tiktok.com/@jlmunozfdev" target="_blank"><img align="center" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/tiktok_logo_icon_189233.png" alt="jlmunozf" height="40" width="40" /></a>
